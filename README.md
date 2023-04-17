@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/Kaio200/sistemaOS)
-# sistema OS (Java
+# sistema OS (JAVA - MySQL)
 
 ##Autor
 Kaio Oda Queiroz
