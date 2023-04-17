@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/Kaio200/sistemaOS)
-# sistemaOS
+# sistema OS (Java
 
 ##Autor
 Kaio Oda Queiroz
